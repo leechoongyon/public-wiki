@@ -7,3 +7,6 @@
 * [반공변성](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/반공변성.md)
 
 
+
+# 기타
+* [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/기타/Intellij-세팅)
