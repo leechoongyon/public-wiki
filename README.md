@@ -9,4 +9,4 @@
 
 
 # 기타
-* [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/기타/Intellij-세팅)
+* [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
