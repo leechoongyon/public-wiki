@@ -14,3 +14,8 @@
 # 코드에 자동으로 final 붙이기
 - Editor -> CodeStyle -> Java -> 우측 버튼확장탭 -> Code Generation Tab 선택 -> 밑에 Final Modifier 2개 옵션 선택
 - Editor > Inspections > Java > Code style issues > Local variable or parameter can be final 체크 
+
+
+# 주석 color 설정
+- Editor -> TODO -> (+) 누르고 pattern 추가 -> 색깔은 선택  
+- https://eboong.tistory.com/660 참고 
