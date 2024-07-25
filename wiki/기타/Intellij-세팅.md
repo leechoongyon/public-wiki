@@ -19,3 +19,7 @@
 # 주석 color 설정
 - Editor -> TODO -> (+) 누르고 pattern 추가 -> 색깔은 선택  
 - https://eboong.tistory.com/660 참고 
+
+
+# plugin 추천
+- tab shifter (Apache license)
