@@ -1,5 +1,10 @@
+# container
+* [docker, colima 설치](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20colima%20%EC%84%A4%EC%B9%98.md)
+* [docker, hive 띄우기](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20colima%20%EC%84%A4%EC%B9%98.md)
+
+
 # Jpa
-* [영속성컨텍스트,JPQL,find 관련 정리.md](https://github.com/leechoongyon/public-wiki/blob/main/wiki/jpa/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2CJPQL%2Cfind%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
+* [영속성컨텍스트,JPQL,find 관련 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/jpa/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2CJPQL%2Cfind%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
 
 # Kotlin
 * [open class(=상속)](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/open%20class.md)
@@ -11,4 +16,4 @@
 
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
-* [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/ITerm2%20%EC%84%B8%ED%8C%85.md)
+* [ITerm2 세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/ITerm2%20%EC%84%B8%ED%8C%85.md)
