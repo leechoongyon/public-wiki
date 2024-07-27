@@ -12,6 +12,6 @@
 
 # colima 명령어
 - colima status
-- colima start --cpu 2 --memory 4 --disk 50 --arch x86_64
+- colima start --cpu 4 --memory 8 --disk 50 --arch x86_64
 - colima stop
 
