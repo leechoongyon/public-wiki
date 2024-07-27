@@ -13,5 +13,6 @@
 # colima 명령어
 - colima status
 - colima start --cpu 4 --memory 8 --disk 50 --arch x86_64
+- colima start --cpu 4 --memory 8  # 위에 arch x86_64 가 안되는 image 들이 있음
 - colima stop
 

@@ -3,6 +3,7 @@
 * [docker, hive 띄우기](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20hive%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md)
 * [docker, hive, hadoop 연결](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20hive%2C%20hadoop%20%EC%97%B0%EA%B2%B0.md)
 * [docker,oracle 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2Coracle%20%EC%A0%95%EB%A6%AC.md)
+* [docker,mysql 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2Cmysql%20%EC%A0%95%EB%A6%AC.md)
 
 
 # Jpa
