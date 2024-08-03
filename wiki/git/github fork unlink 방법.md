@@ -8,4 +8,5 @@
 2. git init
 3. 로컬 repository 등록
 4. 원격 주소 세팅
-5. git push 
+5. git push
+  - git push 할 때 에러 나면 remote fetch 한 후, 다시 push 해보기 
