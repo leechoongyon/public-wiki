@@ -6,6 +6,8 @@
 * [docker,mysql 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2Cmysql%20%EC%A0%95%EB%A6%AC.md)
 * [colima,k8s 설치](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker,colima,k8s-setup.md)
 
+# git
+* [unlink git repository fork](https://github.com/leechoongyon/public-wiki/blob/main/wiki/git/unlink-git-repository-fork.md)
 
 # Jpa
 * [영속성컨텍스트,JPQL,find 관련 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/jpa/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2CJPQL%2Cfind%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
