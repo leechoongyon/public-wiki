@@ -86,3 +86,23 @@ object MockitoHelper {
 ### 참고
 
 - https://v3.leedo.me/devs/44
+
+
+
+
+
+# mockito MockStatic 예시
+
+```kotlin
+    @Test
+    fun `test static method`() {
+        val mockStatic: MockedStatic<MyClass> = Mockito.mockStatic(MyClass::class.java)
+
+        mockStatic.use {
+            `when`(MyClass.staticMethod()).thenReturn("Mocked Result")
+            val result = MyClass.staticMethod()
+            assertEquals("Mocked Result", result)
+        }
+    }
+```
+
