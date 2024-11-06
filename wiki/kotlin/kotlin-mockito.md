@@ -106,3 +106,31 @@ object MockitoHelper {
     }
 ```
 
+
+
+
+
+
+
+# method 를 연속 2번 호출하는 것 mocking
+
+### 상황
+
+- testService.abc().test() 이런식으로 호출하는게 있음.
+
+
+
+### 해결
+
+```kotlin
+@Mock
+private lateinit var xxx: Test;
+
+@Mock
+private lateinit var bbb: Test2;
+
+
+given(testService.abc()).willReturn(xxx)
+given(xxx.test()).willReturn(bbb)
+```
+
