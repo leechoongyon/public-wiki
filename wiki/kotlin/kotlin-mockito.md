@@ -134,3 +134,29 @@ given(testService.abc()).willReturn(xxx)
 given(xxx.test()).willReturn(bbb)
 ```
 
+
+
+
+
+# constructor mocking
+
+- 생성자 mocking 하기 전 ExtendsWith(MockitoExcetion) 해줘야 함. 이걸 해줘야 테스트별 초기화가 일어남
+- 메소드 내부에서 생성자가 생성될 때, 생성자 mocking 사용하면 좋음
+
+
+
+### 참고
+
+- https://mockk.io/#constructor-mocks
+
+
+
+### source
+
+```kotlin
+mockkConstructor(MockConstructor::class)
+
+every { anyConstructed<MockConstructor>().test(xxx) } returns xxxx
+
+```
+
