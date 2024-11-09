@@ -1,3 +1,6 @@
+# code-quality
+* [지속 성장 가능한 설계]()
+
 # container
 * [docker, colima 설치](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20colima%20%EC%84%A4%EC%B9%98.md)
 * [docker, hive 띄우기](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20hive%20%EB%9D%84%EC%9A%B0%EA%B8%B0.md)
@@ -8,6 +11,7 @@
 
 # database
 * [db 샤딩 방법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/db%20%EC%83%A4%EB%94%A9%20%EB%B0%A9%EB%B2%95.md)
+* [cdc 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/cdc%20%EC%A0%95%EB%A6%AC.md)
 
 # git
 * [unlink git repository fork](https://github.com/leechoongyon/public-wiki/blob/main/wiki/git/github%20fork%20unlink%20%EB%B0%A9%EB%B2%95.md)
