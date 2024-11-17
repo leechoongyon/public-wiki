@@ -1,5 +1,5 @@
 # code-quality
-* [지속 성장 가능한 설계]()
+* [지속 성장 가능한 설계](https://github.com/leechoongyon/public-wiki/blob/main/wiki/code-quality/%EC%A7%80%EC%86%8D%20%EC%84%B1%EC%9E%A5%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%84%A4%EA%B3%84.md)
 
 # container
 * [docker, colima 설치](https://github.com/leechoongyon/public-wiki/blob/main/wiki/container/docker%2C%20colima%20%EC%84%A4%EC%B9%98.md)
@@ -20,7 +20,7 @@
 * [영속성컨텍스트,JPQL,find 관련 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/jpa/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2CJPQL%2Cfind%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
 
 # jenkins
-* [jenkins github 연동]()
+* [jenkins github 연동](https://github.com/leechoongyon/public-wiki/blob/main/wiki/ci-cd/jenkins-github%20%EC%97%B0%EB%8F%99.md)
 
 # Kotlin
 * [open class(=상속)](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/open%20class.md)
