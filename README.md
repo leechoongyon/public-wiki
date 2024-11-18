@@ -13,6 +13,10 @@
 * [db 샤딩 방법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/db%20%EC%83%A4%EB%94%A9%20%EB%B0%A9%EB%B2%95.md)
 * [cdc 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/cdc%20%EC%A0%95%EB%A6%AC.md)
 
+
+# failure (장애)
+* [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
+
 # git
 * [unlink git repository fork](https://github.com/leechoongyon/public-wiki/blob/main/wiki/git/github%20fork%20unlink%20%EB%B0%A9%EB%B2%95.md)
 
