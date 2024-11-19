@@ -12,6 +12,7 @@
 # database
 * [db 샤딩 방법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/db%20%EC%83%A4%EB%94%A9%20%EB%B0%A9%EB%B2%95.md)
 * [cdc 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/cdc%20%EC%A0%95%EB%A6%AC.md)
+* [쿼리 분석 explain](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/%EC%BF%BC%EB%A6%AC%20%EB%B6%84%EC%84%9D%20explain.md)
 
 
 # failure (장애)
