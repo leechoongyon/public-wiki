@@ -18,8 +18,14 @@
 # failure (장애)
 * [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
 
+
+
 # git
 * [unlink git repository fork](https://github.com/leechoongyon/public-wiki/blob/main/wiki/git/github%20fork%20unlink%20%EB%B0%A9%EB%B2%95.md)
+
+# java
+* [ForkJoinPool vs ExecutorService](https://github.com/leechoongyon/public-wiki/blob/main/wiki/java/ForkJoinPool%20vs%20ExecutorService.md)
+
 
 # Jpa
 * [영속성컨텍스트,JPQL,find 관련 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/jpa/%EC%98%81%EC%86%8D%EC%84%B1%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%2CJPQL%2Cfind%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
@@ -35,6 +41,9 @@
 
 # NoSQL
 * [hadoop,hdfs,hive 개념 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/nosql/hadoop%2Chdfs%2Chive%20개념%20정리.md)
+
+# spring
+* [spring 동기, 비동기 처리 시, context 로깅]()
 
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
