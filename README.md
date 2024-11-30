@@ -42,6 +42,10 @@
 * [반공변성](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/반공변성.md)
 * [kotlin-mockito](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-mockito.md)
 * [kotlin-mapstruct 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-mapstruct%20%EC%A0%95%EB%A6%AC.md)
+* [kotlin optional of 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20optional%20of%20%EC%A0%95%EB%A6%AC.md)
+* [kotlin-supplier 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-supplier%20%EC%A0%95%EB%A6%AC.md)
+* [kotlin 삼항연산자 비슷하게 사용](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9.md)
+
 
 # NoSQL
 * [hadoop,hdfs,hive 개념 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/nosql/hadoop%2Chdfs%2Chive%20개념%20정리.md)
