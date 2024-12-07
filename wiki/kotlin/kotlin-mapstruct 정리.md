@@ -45,3 +45,16 @@ data class TestDto (
    private val testField: String // 얘는 private 가능. mapperImpl 보니까 생성자로 생성해서 private val 로 선언해도 됨
 )
 ```
+
+
+### mapToList 인데, 파라미터가 2개 이상
+```kotlin
+@Mapper
+interface xxxMapper {
+   companion object {
+      val INSTANCE  = xxxMapper = Mappers.getMapper(xxxMapper::class.java)
+  } 
+
+   fun map(xxxEntity: xxxEntity) : xxxDto
+}
+
