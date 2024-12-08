@@ -58,3 +58,19 @@ interface xxxMapper {
    fun map(xxxEntity: xxxEntity) : xxxDto
 }
 
+abstract class XxxMapper {
+
+    companion object {
+        val INSTANCE  = xxxMapper = Mappers.getMapper(xxxMapper::class.java)
+    }
+
+    fun mapToList(xxxDtoList: List<XxxDto>, test: String) : List<xxxResultDto> {
+        xxxDtoList.map { map(it, test) }
+    }
+
+    @Mapping(source = "xxxDto.id", target, "id")
+    @Mapping(source = "test", target = "test")
+    abstract fun map(xxxDto: xxxDto, test: String) : xxxResultDto
+}
+
+```
