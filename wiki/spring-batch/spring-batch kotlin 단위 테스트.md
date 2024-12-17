@@ -7,3 +7,17 @@ xxx
 }
 
 
+
+@ExtendWith(MockitoExtension::class)
+class xxxTaskletTest {
+
+     @InjectMocks 
+     lateinit var     xxxTasklet
+
+    @Test
+    testRead() {
+           xxxTasklet.read()
+    }
+}
+
+```
