@@ -54,6 +54,9 @@
 # spring
 * [spring 동기, 비동기 처리 시, context 로깅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring/spring%20%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%2C%20context%20%EB%A1%9C%EA%B9%85.md)
 
+# spring-batch
+* [spring-batch kotlin 단위테스트]()
+
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
 * [ITerm2 세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/ITerm2%20%EC%84%B8%ED%8C%85.md)
