@@ -23,3 +23,7 @@ if (iterator == null || !iterator!!.hasNext()) {
 }
 
 ```
+
+# 별도 내용
+- open 에서 내부 iterator, 외부 iterator 초기화를 해줘야할듯
+- read 에서 내부 iterator 가 값이 없으면 외부 iterator 에서 찾고, 외부 iterator 가 없으면 종료 
