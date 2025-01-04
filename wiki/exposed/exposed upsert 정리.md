@@ -1,5 +1,6 @@
 # exposed upsert 정리 
 - upsert = merge into
+- 데이터가 없으면 INSERT, 데이터가 존재하면 UPDATE
 
 ```kotlin
 
