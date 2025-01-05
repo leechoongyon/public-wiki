@@ -17,10 +17,10 @@
 # exposed
 * [exposed for update 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20for%20update%20%EC%A0%95%EB%A6%AC.md)
 * [exposed 동적 builder 만드는법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8F%99%EC%A0%81%20builder%20%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.md)
-* [exposed sequence]()
-* [exposed upsert 정리]()
-* [exposed 단위 테스트]()
-* [exposed batch-fetch 기능 정리]()
+* [exposed sequence](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20sequence.md)
+* [exposed upsert 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20upsert%20%EC%A0%95%EB%A6%AC.md)
+* [exposed 단위 테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+* [exposed batch-fetch 기능 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20batch-fetch%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.md)
 
 # failure (장애)
 * [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
