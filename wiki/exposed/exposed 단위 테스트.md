@@ -9,6 +9,7 @@
     - 검증
   - SchemaUtils 통해 스키마 삭제
 
+### example 1
 ```kotlin
 Database.connect(
 "jdbc:h2:mem:test;Mode=Oracle;DB_CLOSE_DELAY=-1;",
@@ -34,4 +35,36 @@ Sequence("SEQ", 1, 1, 1, 1)
 xxxNextVal
 }
 
+```
+
+### example 2
+```kotlin
+@ExtendWith(MockitoExtension::class)
+class ServiceTest {
+    
+    @BeforeEach
+    fun setUp() {
+          Database.connect (
+                  "jdbc:h2:mem:test",
+                  driver = "org.h2.Driver"
+         )
+    } 
+    
+    @Test
+    fun test() {
+             transaction {
+                            SchemaUtils.create(TestEntity)
+                            TestEntity.insert {
+                                    it[id] = 1L
+                                    it[name] = "testName"
+                             }
+   
+                            // select 수행
+
+
+                            SchemaUtils.drop(TestEntity)
+             } 
+    }
+    
+}
 ```
