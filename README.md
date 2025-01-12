@@ -49,6 +49,7 @@
 * [kotlin optional of 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20optional%20of%20%EC%A0%95%EB%A6%AC.md)
 * [kotlin-supplier 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-supplier%20%EC%A0%95%EB%A6%AC.md)
 * [kotlin 삼항연산자 비슷하게 사용](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9.md)
+* [kotlin-mockito eq, any 사용할 때 NPE 문제]()
 
 
 # NoSQL
@@ -58,7 +59,7 @@
 * [spring 동기, 비동기 처리 시, context 로깅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring/spring%20%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EC%8B%9C%2C%20context%20%EB%A1%9C%EA%B9%85.md)
 
 # spring-batch
-* [spring-batch kotlin 단위테스트]()
+* [spring-batch kotlin 단위테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring-batch%20kotlin%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
