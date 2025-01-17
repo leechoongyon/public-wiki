@@ -21,3 +21,43 @@ fun <E> xxxMethod(
 // 호출
 Builder.xxxMethod(xxxEnum, xxxEntity.xxxEnum)
 ```
+
+```kotlin
+class Builder (
+    var whereQuery: Op<Boolean> = Op.TRUE
+) {
+    companion object {
+        fun of(): Builder {
+            return Builder()
+        }
+    }
+
+    fun <E> andEquals(
+        value: E?,
+        column: Column<E>
+    ): Builder {
+        if (value != null) {
+            andExpr(column.eq(value))
+        }
+        return this
+    }
+    
+    andExpr(booleanExpr: Op<Boolean>) : Builder {
+      this.whereQuery = whereQuery and booleanExpr 
+         return this
+    }
+    
+    fun build(): Op<Boolean> {
+        return whereQuery
+    }
+}
+
+```
+
+- 사용예제
+```kotlin
+   TestEntity.selectAll().where {
+        Builder.of().andExpr(TestEntity.id, 1L).build   
+    }   
+   
+```
