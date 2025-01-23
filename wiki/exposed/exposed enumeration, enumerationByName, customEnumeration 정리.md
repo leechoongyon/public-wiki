@@ -16,5 +16,25 @@ fun <T : Enum<T>> customEnumeration(
 
 ```
 
+### 사용법
+```kotlin
+class enum TestEnum (val value Int) {
+        ACTIVE(10)
+        STOP(20)
+}
 
+
+TestEntity.kt
+val testCode = customEnumeration(
+    name = "STAT_CODE", 
+    sql = "VARCHAR(5)",  // ex) NUMBER(5) sqlType 이 들어가야함
+    fromDb = {dbValue -> TestEnum.values().first { it.value == (dbValue as BigDecimal).toInt } },
+    toDb = { enumValue -> enumValue.value }
+}
+
+
+// 변환할려고 하는 enum value 가 String 이면
+//  fromDb = {dbValue -> TestEnum.values().first { it.value == dbValue as String } },
+
+```
 
