@@ -21,6 +21,10 @@
 * [exposed upsert 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20upsert%20%EC%A0%95%EB%A6%AC.md)
 * [exposed 단위 테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [exposed batch-fetch 기능 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20batch-fetch%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.md)
+* [exposed native query]()
+* [exposed sample]()
+* [exposed enumeration, enumerationByName, customEnumeration 정리]()
+* [exposed batch update 정리]()
 
 # failure (장애)
 * [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
@@ -60,6 +64,9 @@
 
 # spring-batch
 * [spring-batch kotlin 단위테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring-batch%20kotlin%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+* [spring batch step 간 데이터 공유]()
+* [spring batch 분기 처리 및 순환 구조]()
+* [spring jdbcTemplate 정리]()
 
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
