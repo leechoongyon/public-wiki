@@ -15,6 +15,7 @@
 * [쿼리 분석 explain](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/%EC%BF%BC%EB%A6%AC%20%EB%B6%84%EC%84%9D%20explain.md)
 
 # exposed
+* [exposed 조회 관련 정리]()
 * [exposed for update 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20for%20update%20%EC%A0%95%EB%A6%AC.md)
 * [exposed 동적 builder 만드는법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8F%99%EC%A0%81%20builder%20%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.md)
 * [exposed sequence](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20sequence.md)
