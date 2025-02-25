@@ -15,17 +15,17 @@
 * [쿼리 분석 explain](https://github.com/leechoongyon/public-wiki/blob/main/wiki/database/%EC%BF%BC%EB%A6%AC%20%EB%B6%84%EC%84%9D%20explain.md)
 
 # exposed
-* [exposed 조회 관련 정리]()
+* [exposed 조회 관련 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EC%A1%B0%ED%9A%8C%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md)
 * [exposed for update 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20for%20update%20%EC%A0%95%EB%A6%AC.md)
 * [exposed 동적 builder 만드는법](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8F%99%EC%A0%81%20builder%20%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95.md)
 * [exposed sequence](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20sequence.md)
 * [exposed upsert 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20upsert%20%EC%A0%95%EB%A6%AC.md)
 * [exposed 단위 테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 * [exposed batch-fetch 기능 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20batch-fetch%20%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EB%A6%AC.md)
-* [exposed native query]()
-* [exposed sample]()
-* [exposed enumeration, enumerationByName, customEnumeration 정리]()
-* [exposed batch update 정리]()
+* [exposed native query](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20native%20query.md)
+* [exposed sample, guide](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20sample.md)
+* [exposed enumeration, enumerationByName, customEnumeration 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20enumeration%2C%20enumerationByName%2C%20customEnumeration%20%EC%A0%95%EB%A6%AC.md)
+* [exposed batch update 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20batch%20update%20%EC%A0%95%EB%A6%AC.md)
 
 # failure (장애)
 * [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
@@ -54,7 +54,7 @@
 * [kotlin optional of 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20optional%20of%20%EC%A0%95%EB%A6%AC.md)
 * [kotlin-supplier 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-supplier%20%EC%A0%95%EB%A6%AC.md)
 * [kotlin 삼항연산자 비슷하게 사용](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin%20%EC%82%BC%ED%95%AD%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9.md)
-* [kotlin-mockito eq, any 사용할 때 NPE 문제]()
+* [kotlin-mockito eq, any 사용할 때 NPE 문제](https://github.com/leechoongyon/public-wiki/blob/main/wiki/kotlin/kotlin-mockito%20eq%2C%20any%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20NPE%20%EB%AC%B8%EC%A0%9C.md)
 
 
 # NoSQL
@@ -65,9 +65,9 @@
 
 # spring-batch
 * [spring-batch kotlin 단위테스트](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring-batch%20kotlin%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
-* [spring batch step 간 데이터 공유]()
-* [spring batch 분기 처리 및 순환 구조]()
-* [spring jdbcTemplate 정리]()
+* [spring batch step 간 데이터 공유](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring%20batch%20step%20%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EC%9C%A0.md)
+* [spring batch 분기 처리 및 순환 구조](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring%20batch%20%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EB%B0%8F%20%EC%88%9C%ED%99%98%20%EA%B5%AC%EC%A1%B0.md)
+* [spring jdbcTemplate 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring%20jdbcTemplate%20%EC%A0%95%EB%A6%AC.md)
 
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
