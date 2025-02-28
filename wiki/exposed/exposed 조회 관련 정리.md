@@ -20,3 +20,18 @@ selectAll().withDistinct(true)
 ```kotlin
 select (TestEntity.id, xxx).withDistinct(true)
 ```
+
+### exposed 동적 조회
+
+### inList
+
+```kotlin
+fun <E> andInList (
+    value : List<E>?,
+    column: Column<E>
+) : Builder {
+    return column.inList(value)
+}
+ )
+```
+
