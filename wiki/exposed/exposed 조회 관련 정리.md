@@ -32,6 +32,5 @@ fun <E> andInList (
 ) : Builder {
     return column.inList(value)
 }
- )
 ```
 
