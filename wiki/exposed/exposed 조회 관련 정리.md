@@ -34,3 +34,19 @@ fun <E> andInList (
 }
 ```
 
+
+```kotlin
+fun and조건 (
+    enable: Boolean?,
+   opExpression: Op<Boolean>
+) : Builder {
+    if (enable != null && enable == true) {
+          return andExpr(opExpression)
+      } 
+     return this
+}
+```
+
+```kotlin
+ex) and조건(true, TestEntity.name.isNotNull())
+```
