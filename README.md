@@ -73,3 +73,4 @@
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
 * [ITerm2 세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/ITerm2%20%EC%84%B8%ED%8C%85.md)
 * [Authorization Bearer]()
+* [Resilience4j 정리]()
