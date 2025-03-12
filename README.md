@@ -26,6 +26,7 @@
 * [exposed sample, guide](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20sample.md)
 * [exposed enumeration, enumerationByName, customEnumeration 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20enumeration%2C%20enumerationByName%2C%20customEnumeration%20%EC%A0%95%EB%A6%AC.md)
 * [exposed batch update 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/exposed/exposed%20batch%20update%20%EC%A0%95%EB%A6%AC.md)
+* [exposed, jdbcTemplate 트랜잭션 정리 (spring-batch 에서 테스트)]()
 
 # failure (장애)
 * [jdbc readonly 관련 이슈](https://github.com/leechoongyon/public-wiki/blob/main/wiki/failure/jdbc%20readonly%20%EA%B4%80%EB%A0%A8%20%EC%9D%B4%EC%8A%88.md)
