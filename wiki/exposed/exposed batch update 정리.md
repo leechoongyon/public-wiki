@@ -27,3 +27,12 @@ object TestEntity : LongIdTableWithSequence(  xxx ) {
 }
 
 ```
+
+- [x] spring-batch 에서 위와 같이 사용했을 때, 트랜잭션이 묶이는가?  묶임
+- [x] spring-batch 에서 batchInsert 동작하는가? ID 가 자동생성되는가? SEQUENCE 로 -> 정상 동작
+- [x] spring-batch 에서 batchUpdate 동작하는가?
+    - 동작하는거 같음
+    - 10000건 batchUpdate 할 때, 10~20초
+    - 10000건 단건 업데이트 할 때, 1분~1분20초
+    - BatchUpdate 예시는 https://cheese10yun.github.io/mysql-batch-update/ 참고
+
