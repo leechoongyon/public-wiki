@@ -28,6 +28,7 @@ object TestEntity : LongIdTableWithSequence(  xxx ) {
 
 ```
 
+- [x] BatchUpdateStatement 를 사용하기 위해 IdTable 을 상속받아 테이블 스펙 정의. 그 이후 SequenceName 입력해주면 생성됨
 - [x] spring-batch 에서 위와 같이 사용했을 때, 트랜잭션이 묶이는가?  묶임
 - [x] spring-batch 에서 batchInsert 동작하는가? ID 가 자동생성되는가? SEQUENCE 로 -> 정상 동작
 - [x] spring-batch 에서 batchUpdate 동작하는가?
