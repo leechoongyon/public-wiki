@@ -11,3 +11,7 @@
 - 마지막 ACK 패킷 유실 대비
     - 연결 종료 과정의 마지막 단계에서 Active Closer가 Passive Closer에게 보내는 ACK가 유실될 수 있음
     - 이 경우, Passive Closer는 LAST_ACK 상태에 머물게 되며, 일정 시간 후 FIN 패킷을 재전송
+
+### TIME WAIT 로 인한 소켓 고갈
+- TCP 자체가 잦은 연결 수립/끊음이 발생하면 TIME_WAIT 가 많이 발생할 수 있음 (대량의 트래픽)
+
