@@ -15,4 +15,11 @@ WORKDIR /user/test  # 작업 디렉터리 설정
 USER root # user 설정
 COPY .. /user/build # 현재 위치에서 한칸 위에 있는 위치 모든 폴더 파일들을 /user/build 로 copy
 RUN chmod 644 /user/build/gradlew
+
+WORKDIR /user/build
+RUN --mount=type=cache, target=xxxxxx, uid, gid \
+       ./gradlew :subModule:bootJar               
+
+WORKDIR jar 파일 위치
+CMD ["java", "-jar", xxxxx.jar"]  # 실행
 ```
