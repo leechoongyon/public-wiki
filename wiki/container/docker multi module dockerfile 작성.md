@@ -23,3 +23,9 @@ RUN --mount=type=cache, target=xxxxxx, uid, gid \
 WORKDIR jar 파일 위치
 CMD ["java", "-jar", xxxxx.jar"]  # 실행
 ```
+
+### dockerfile 기반으로 container 실행
+1. colima 같은거 띄워야 함
+2. docker build -t xxxx:v0.0.1 -f xxxx/subModule/Dockerfile .
+3. docker run -it -p 80:80 xxxx:v0.0.1
+4. docker exec -it [containerId] /bin/bash
