@@ -19,3 +19,20 @@ class SampleListener {
     }
 }
 ```
+
+### kafka config 수동으로 세팅
+
+```yaml
+kafka:
+  targets:
+    sample1:
+      producer:
+        xxxxx
+      consumer:
+        xxxxx
+    sample2:
+      producer:
+        xxxxx
+      consumer:
+        xxxxx
+```
