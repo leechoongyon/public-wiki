@@ -10,3 +10,12 @@ spring:
     xxx
 ```
 
+```kotlin
+@Component
+class SampleListener {
+    @KafkaListener(topics = ["test"])
+    fun listen(payload: String) {
+        xxx
+    }
+}
+```
