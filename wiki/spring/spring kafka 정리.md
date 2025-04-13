@@ -36,3 +36,23 @@ kafka:
       consumer:
         xxxxx
 ```
+
+```kotlin
+@ConfigurationProperties(prefix = "kafka.targets")
+data class KafkaProperties {
+    val targets: Map<String, KafkaClientProperties>
+} {
+    data class KafkaClientProperties (
+        val producer: ProducerProperties, 
+        val consumer: ConsumerProperties
+    )
+    
+    data class ProducerProperties {
+        xxx
+    }
+    
+    data class ConsumerProperties {
+        xxx
+    }
+}
+```
