@@ -56,3 +56,20 @@ data class KafkaProperties {
     }
 }
 ```
+
+```kotlin
+@Configuration
+class KafkaConfig {
+    fun getKafkaProducerFactory() {
+        xxxxxxx
+    }
+    
+    fun getKafkaConsumerFactory() {
+        xxxxxx
+    }
+    
+    fun concurrentKafkaListenerContainerFactory() : concurrentKafkaListenerContainerFactory< String, String> {
+        xxxxxx
+    } 
+}
+```
