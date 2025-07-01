@@ -73,3 +73,13 @@ class KafkaConfig {
     } 
 }
 ```
+
+```kotlin
+@Component
+class SampleListener {
+    @KafkaListener(topics = ["test"], containerFactory = concurrentKafkaListenerContainerFactory)
+    fun listen(payload: String) {
+        xxx
+    }
+}
+```
