@@ -72,6 +72,10 @@
 * [spring batch 분기 처리 및 순환 구조](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring%20batch%20%EB%B6%84%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%EB%B0%8F%20%EC%88%9C%ED%99%98%20%EA%B5%AC%EC%A1%B0.md)
 * [spring jdbcTemplate 정리](https://github.com/leechoongyon/public-wiki/blob/main/wiki/spring-batch/spring%20jdbcTemplate%20%EC%A0%95%EB%A6%AC.md)
 
+# system-design
+* [조회 트래픽 늘어날 때, Elasticsearch 분산처리]()
+* [대기열-시스템]()
+
 # 기타
 * [Intellij-세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/Intellij-%EC%84%B8%ED%8C%85.md)
 * [ITerm2 세팅](https://github.com/leechoongyon/public-wiki/blob/main/wiki/%EA%B8%B0%ED%83%80/ITerm2%20%EC%84%B8%ED%8C%85.md)
